@@ -1,12 +1,12 @@
 {
     "name": "pianoteq",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "pianoteq loader",
     "author": "carl / modartt",
     "launch_mode": "auto",
     "depends_on": [
         "jack.service",
-        "amidiauto.service"
+        "amidiminder.service"
     ],
     "services": [],
     "scripts": {
