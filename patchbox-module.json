@@ -6,7 +6,6 @@
     "launch_mode": "auto",
     "depends_on": [
         "jack.service",
-        "amidiminder.service"
     ],
     "services": [],
     "scripts": {
