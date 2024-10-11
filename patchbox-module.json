@@ -5,7 +5,7 @@
     "author": "carl / modartt",
     "launch_mode": "auto",
     "depends_on": [
-        "jack.service",
+        "jack.service"
     ],
     "services": [],
     "scripts": {
